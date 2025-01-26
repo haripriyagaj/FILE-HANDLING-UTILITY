@@ -30,3 +30,7 @@ One of the most exciting parts of the project was incorporating a real-time chat
 The experience was not without its challenges. Debugging multithreaded operations, managing API data efficiently, and ensuring the system scaled seamlessly required persistence and adaptability. However, each obstacle became an opportunity to learn, and every solution was a step toward refining my skills.
 
 Overall, this project was a significant milestone in my journey as a developer. It not only strengthened my technical foundation but also instilled in me a sense of confidence in tackling complex, real-world problems.
+
+
+OUTPUT: For file handling utility 
+![Image](https://github.com/user-attachments/assets/b64973c8-a51c-47c1-863f-ff0b79dc2426)
